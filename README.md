@@ -12,7 +12,7 @@ This repository serves as a comprehensive portfolio for the coursework and proje
 ## Repository Structure
 
 ### 1. 📂 Lecture Notes
-The `Lecture Notes` folder contains detailed technical analysis and key takeaways from the core modules of the course:
+The [`Lecture Notes`](https://github.com/BrandonLee-98/AI-Applications-Portfolio-2026/tree/e3051ca2dc0dc5d0b62c5937fb0bac549dc43b60/Lecture%20Notes) folder contains detailed technical analysis and key takeaways from the core modules of the course:
 
 * **Module 02: Recent Advancements & Future Trends**
     * Study of Artificial General Intelligence (AGI) vs. Narrow AI.
