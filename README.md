@@ -37,7 +37,7 @@ The `Lecture Notes` folder contains detailed technical analysis and key takeaway
     * Exploration of omnichannel personalization, cashierless checkout (Computer Vision), and demand forecasting.
 
 ### 2. 📂 Case Studies
-The `Case Studies` folder hosts in-depth research papers on industry-specific AI applications and original proposals:
+The [`Case Studies`](https://github.com/BrandonLee-98/AI-Applications-Portfolio-2026/tree/786e1f87ed2c8dc4f764bed38413ed300ac2142c/Case%20Studies) folder hosts in-depth research papers on industry-specific AI applications and original proposals:
 
 * **A09: Autonomous Vehicles (AVs) & Ethics**
     * Analysis of SAE automation levels and the "Trolley Problem" in path-planning logic.
